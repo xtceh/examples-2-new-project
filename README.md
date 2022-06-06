@@ -2,9 +2,11 @@
 
 ## Creation Process
 
+Small change - and another one
+
 1) Created Repo on Gitlab.com
 
-2) Created project on local devlepment machine (Windows(but shouldn't matter)) 
+2) Created project on local development machine (Windows(but shouldn't matter)) 
 
 3) Added custom .gitattributes & .gitignore files
 
