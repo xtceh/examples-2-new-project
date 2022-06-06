@@ -1,0 +1,13 @@
+# This is a 'New Project' created by Android Studio
+
+## Creation Process
+
+1) Created Repo on Gitlab.com
+
+2) Created project on local devlepment machine (Windows(but shouldn't matter)) 
+
+3) Added custom .gitattributes & .gitignore files
+
+4) Created this file
+
+5) Pushed changes to (formerly empty) remote repository on gitlab.com 
